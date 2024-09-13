@@ -102,6 +102,7 @@ I list my favorite MoE papers here. I think these papers can greatly help new Mo
 - SpeechMoE: Scaling to Large Acoustic Models with Dynamic Routing Mixture of Experts [[7 May 2021]](https://arxiv.org/abs/2105.03036)
 - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity [[11 Jan 2021]](https://arxiv.org/abs/2101.03961)
 - Exploring Routing Strategies for Multilingual Mixture-of-Experts Models [[28 Sept 2020]](https://openreview.net/forum?id=ey1XXNzcIZS)
+- Adaptive Gating in Mixture-of-Experts based Language Models[[11 Oct 2023]](https://arxiv.org/abs/2310.07188)
 
 
 ## MoE System
